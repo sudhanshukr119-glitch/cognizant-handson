@@ -1,0 +1,15 @@
+C:\Users\sudha\OneDrive\Desktop\solution\Week1\dsa\excercise7\bin\Debug\net10.0\EXcercise7.exe
+C:\Users\sudha\OneDrive\Desktop\solution\Week1\dsa\excercise7\bin\Debug\net10.0\EXcercise7.deps.json
+C:\Users\sudha\OneDrive\Desktop\solution\Week1\dsa\excercise7\bin\Debug\net10.0\EXcercise7.runtimeconfig.json
+C:\Users\sudha\OneDrive\Desktop\solution\Week1\dsa\excercise7\bin\Debug\net10.0\EXcercise7.dll
+C:\Users\sudha\OneDrive\Desktop\solution\Week1\dsa\excercise7\bin\Debug\net10.0\EXcercise7.pdb
+C:\Users\sudha\OneDrive\Desktop\solution\Week1\dsa\excercise7\obj\Debug\net10.0\EXcercise7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudha\OneDrive\Desktop\solution\Week1\dsa\excercise7\obj\Debug\net10.0\EXcercise7.AssemblyInfoInputs.cache
+C:\Users\sudha\OneDrive\Desktop\solution\Week1\dsa\excercise7\obj\Debug\net10.0\EXcercise7.AssemblyInfo.cs
+C:\Users\sudha\OneDrive\Desktop\solution\Week1\dsa\excercise7\obj\Debug\net10.0\EXcercise7.csproj.CoreCompileInputs.cache
+C:\Users\sudha\OneDrive\Desktop\solution\Week1\dsa\excercise7\obj\Debug\net10.0\EXcercise7.sourcelink.json
+C:\Users\sudha\OneDrive\Desktop\solution\Week1\dsa\excercise7\obj\Debug\net10.0\EXcercise7.dll
+C:\Users\sudha\OneDrive\Desktop\solution\Week1\dsa\excercise7\obj\Debug\net10.0\refint\EXcercise7.dll
+C:\Users\sudha\OneDrive\Desktop\solution\Week1\dsa\excercise7\obj\Debug\net10.0\EXcercise7.pdb
+C:\Users\sudha\OneDrive\Desktop\solution\Week1\dsa\excercise7\obj\Debug\net10.0\EXcercise7.genruntimeconfig.cache
+C:\Users\sudha\OneDrive\Desktop\solution\Week1\dsa\excercise7\obj\Debug\net10.0\ref\EXcercise7.dll
