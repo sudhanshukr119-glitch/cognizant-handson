@@ -1,0 +1,15 @@
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\MVCPatternExample\bin\Debug\net10.0\MVCPatternExample.exe
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\MVCPatternExample\bin\Debug\net10.0\MVCPatternExample.deps.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\MVCPatternExample\bin\Debug\net10.0\MVCPatternExample.runtimeconfig.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\MVCPatternExample\bin\Debug\net10.0\MVCPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\MVCPatternExample\bin\Debug\net10.0\MVCPatternExample.pdb
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.AssemblyInfoInputs.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.AssemblyInfo.cs
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.csproj.CoreCompileInputs.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.sourcelink.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\MVCPatternExample\obj\Debug\net10.0\refint\MVCPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.pdb
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.genruntimeconfig.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\MVCPatternExample\obj\Debug\net10.0\ref\MVCPatternExample.dll

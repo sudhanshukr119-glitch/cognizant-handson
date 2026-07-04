@@ -1,0 +1,15 @@
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\BuilderPatternExample\bin\Debug\net10.0\BuilderPatternExample.exe
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\BuilderPatternExample\bin\Debug\net10.0\BuilderPatternExample.deps.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\BuilderPatternExample\bin\Debug\net10.0\BuilderPatternExample.runtimeconfig.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\BuilderPatternExample\bin\Debug\net10.0\BuilderPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\BuilderPatternExample\bin\Debug\net10.0\BuilderPatternExample.pdb
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\BuilderPatternExample\obj\Debug\net10.0\BuilderPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\BuilderPatternExample\obj\Debug\net10.0\BuilderPatternExample.AssemblyInfoInputs.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\BuilderPatternExample\obj\Debug\net10.0\BuilderPatternExample.AssemblyInfo.cs
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\BuilderPatternExample\obj\Debug\net10.0\BuilderPatternExample.csproj.CoreCompileInputs.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\BuilderPatternExample\obj\Debug\net10.0\BuilderPatternExample.sourcelink.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\BuilderPatternExample\obj\Debug\net10.0\BuilderPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\BuilderPatternExample\obj\Debug\net10.0\refint\BuilderPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\BuilderPatternExample\obj\Debug\net10.0\BuilderPatternExample.pdb
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\BuilderPatternExample\obj\Debug\net10.0\BuilderPatternExample.genruntimeconfig.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\BuilderPatternExample\obj\Debug\net10.0\ref\BuilderPatternExample.dll

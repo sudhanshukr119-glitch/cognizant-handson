@@ -1,0 +1,15 @@
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\CommandPatternExample\bin\Debug\net10.0\CommandPatternExample.exe
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\CommandPatternExample\bin\Debug\net10.0\CommandPatternExample.deps.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\CommandPatternExample\bin\Debug\net10.0\CommandPatternExample.runtimeconfig.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\CommandPatternExample\bin\Debug\net10.0\CommandPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\CommandPatternExample\bin\Debug\net10.0\CommandPatternExample.pdb
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\CommandPatternExample\obj\Debug\net10.0\CommandPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\CommandPatternExample\obj\Debug\net10.0\CommandPatternExample.AssemblyInfoInputs.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\CommandPatternExample\obj\Debug\net10.0\CommandPatternExample.AssemblyInfo.cs
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\CommandPatternExample\obj\Debug\net10.0\CommandPatternExample.csproj.CoreCompileInputs.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\CommandPatternExample\obj\Debug\net10.0\CommandPatternExample.sourcelink.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\CommandPatternExample\obj\Debug\net10.0\CommandPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\CommandPatternExample\obj\Debug\net10.0\refint\CommandPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\CommandPatternExample\obj\Debug\net10.0\CommandPatternExample.pdb
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\CommandPatternExample\obj\Debug\net10.0\CommandPatternExample.genruntimeconfig.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\CommandPatternExample\obj\Debug\net10.0\ref\CommandPatternExample.dll

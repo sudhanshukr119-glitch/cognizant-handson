@@ -1,0 +1,15 @@
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\AdapterPatternExample\bin\Debug\net10.0\AdapterPatternExample.exe
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\AdapterPatternExample\bin\Debug\net10.0\AdapterPatternExample.deps.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\AdapterPatternExample\bin\Debug\net10.0\AdapterPatternExample.runtimeconfig.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\AdapterPatternExample\bin\Debug\net10.0\AdapterPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\AdapterPatternExample\bin\Debug\net10.0\AdapterPatternExample.pdb
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.AssemblyInfoInputs.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.AssemblyInfo.cs
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.csproj.CoreCompileInputs.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.sourcelink.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\AdapterPatternExample\obj\Debug\net10.0\refint\AdapterPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.pdb
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.genruntimeconfig.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\AdapterPatternExample\obj\Debug\net10.0\ref\AdapterPatternExample.dll

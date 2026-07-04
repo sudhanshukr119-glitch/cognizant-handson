@@ -1,0 +1,15 @@
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\ObserverPatternExample\bin\Debug\net10.0\ObserverPatternExample.exe
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\ObserverPatternExample\bin\Debug\net10.0\ObserverPatternExample.deps.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\ObserverPatternExample\bin\Debug\net10.0\ObserverPatternExample.runtimeconfig.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\ObserverPatternExample\bin\Debug\net10.0\ObserverPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\ObserverPatternExample\bin\Debug\net10.0\ObserverPatternExample.pdb
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\ObserverPatternExample\obj\Debug\net10.0\ObserverPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\ObserverPatternExample\obj\Debug\net10.0\ObserverPatternExample.AssemblyInfoInputs.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\ObserverPatternExample\obj\Debug\net10.0\ObserverPatternExample.AssemblyInfo.cs
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\ObserverPatternExample\obj\Debug\net10.0\ObserverPatternExample.csproj.CoreCompileInputs.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\ObserverPatternExample\obj\Debug\net10.0\ObserverPatternExample.sourcelink.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\ObserverPatternExample\obj\Debug\net10.0\ObserverPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\ObserverPatternExample\obj\Debug\net10.0\refint\ObserverPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\ObserverPatternExample\obj\Debug\net10.0\ObserverPatternExample.pdb
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\ObserverPatternExample\obj\Debug\net10.0\ObserverPatternExample.genruntimeconfig.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\ObserverPatternExample\obj\Debug\net10.0\ref\ObserverPatternExample.dll

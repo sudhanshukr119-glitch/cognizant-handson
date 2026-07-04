@@ -1,0 +1,15 @@
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\StrategyPatternExample\bin\Debug\net10.0\StrategyPatternExample.exe
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\StrategyPatternExample\bin\Debug\net10.0\StrategyPatternExample.deps.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\StrategyPatternExample\bin\Debug\net10.0\StrategyPatternExample.runtimeconfig.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\StrategyPatternExample\bin\Debug\net10.0\StrategyPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\StrategyPatternExample\bin\Debug\net10.0\StrategyPatternExample.pdb
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\StrategyPatternExample\obj\Debug\net10.0\StrategyPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\StrategyPatternExample\obj\Debug\net10.0\StrategyPatternExample.AssemblyInfoInputs.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\StrategyPatternExample\obj\Debug\net10.0\StrategyPatternExample.AssemblyInfo.cs
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\StrategyPatternExample\obj\Debug\net10.0\StrategyPatternExample.csproj.CoreCompileInputs.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\StrategyPatternExample\obj\Debug\net10.0\StrategyPatternExample.sourcelink.json
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\StrategyPatternExample\obj\Debug\net10.0\StrategyPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\StrategyPatternExample\obj\Debug\net10.0\refint\StrategyPatternExample.dll
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\StrategyPatternExample\obj\Debug\net10.0\StrategyPatternExample.pdb
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\StrategyPatternExample\obj\Debug\net10.0\StrategyPatternExample.genruntimeconfig.cache
+c:\Users\sudha\OneDrive\Desktop\solution\Week1\design pattern\StrategyPatternExample\obj\Debug\net10.0\ref\StrategyPatternExample.dll
